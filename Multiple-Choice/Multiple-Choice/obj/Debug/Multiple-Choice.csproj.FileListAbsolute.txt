@@ -1,0 +1,9 @@
+E:\Công Nghệ .Net\Lab10\Multiple-Choice\Multiple-Choice\bin\Debug\Multiple-Choice.exe.config
+E:\Công Nghệ .Net\Lab10\Multiple-Choice\Multiple-Choice\bin\Debug\Multiple-Choice.exe
+E:\Công Nghệ .Net\Lab10\Multiple-Choice\Multiple-Choice\bin\Debug\Multiple-Choice.pdb
+E:\Công Nghệ .Net\Lab10\Multiple-Choice\Multiple-Choice\obj\Debug\Multiple_Choice.Form1.resources
+E:\Công Nghệ .Net\Lab10\Multiple-Choice\Multiple-Choice\obj\Debug\Multiple_Choice.Properties.Resources.resources
+E:\Công Nghệ .Net\Lab10\Multiple-Choice\Multiple-Choice\obj\Debug\Multiple-Choice.csproj.GenerateResource.cache
+E:\Công Nghệ .Net\Lab10\Multiple-Choice\Multiple-Choice\obj\Debug\Multiple-Choice.csproj.CoreCompileInputs.cache
+E:\Công Nghệ .Net\Lab10\Multiple-Choice\Multiple-Choice\obj\Debug\Multiple-Choice.exe
+E:\Công Nghệ .Net\Lab10\Multiple-Choice\Multiple-Choice\obj\Debug\Multiple-Choice.pdb
